@@ -1,0 +1,8 @@
+
+
+#raw files
+data_raw:
+    file1: "../data/raw/fra2020-extentofforest.csv"
+    file1: "../data/raw/fgoal15.forest_shares.csv"
+    file3: "../data/raw/most-visited-countries-2024.csv"
+    file3: "../data/raw/WBD_population.csv"
