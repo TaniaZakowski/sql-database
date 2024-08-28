@@ -11,6 +11,7 @@ country_code char(3),
 country_name varchar(100),
 latitude float,
 longitude float,
+UNIQUE(country_name),
 PRIMARY KEY(country_code)
 );
 
@@ -37,10 +38,9 @@ CONSTRAINT deforest_percent_fk FOREIGN KEY (country_code) references country_cod
 );
 
 CREATE TABLE forest_hectares (
-country_code char(3),
+country_name varchar(100),
 fh_2000 float,
 fh_2020 float,
-PRIMARY KEY(country_code),
-CONSTRAINT forest_hectares_fk FOREIGN KEY (country_code) references country_codes(country_code)
+PRIMARY KEY(country_name),
+CONSTRAINT forest_hectares_fk FOREIGN KEY (country_name) references country_codes(country_name)
 );
-   
