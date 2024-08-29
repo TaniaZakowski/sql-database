@@ -16,16 +16,11 @@ PRIMARY KEY(country_code)
 );
 
 CREATE TABLE top_visited (
-country_code char(3),
-tv_1960 int,
-tv_1970 int,
-tv_1980 int,
-tv_1990 int,
-tv_2000 int,
-tv_2010 int,
-tv_2020 int,
-PRIMARY KEY(country_code),
-CONSTRAINT top_visited_fk FOREIGN KEY (country_code) references country_codes(country_code)
+country_name varchar(100),
+num_of_arrivals int,
+share_of_visit float,
+PRIMARY KEY(country_name),
+CONSTRAINT top_visited_fk FOREIGN KEY (country_name) references country_codes(country_name)
 );
 
 CREATE TABLE deforest_percent (
