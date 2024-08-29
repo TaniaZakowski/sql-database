@@ -6,3 +6,11 @@ data_raw:
     file1: "../data/raw/fgoal15.forest_shares.csv"
     file3: "../data/raw/most-visited-countries-2024.csv"
     file3: "../data/raw/WBD_population.csv"
+
+#clean_files
+
+data_clean:
+    file1: "../data/clean/w4proj_country_visits.csv"
+    file2: "../data/clean/w4proj_deforestation.csv"
+    file3:
+    
