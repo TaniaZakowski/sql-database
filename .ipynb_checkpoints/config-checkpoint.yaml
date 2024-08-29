@@ -10,7 +10,7 @@ data_raw:
 #clean_files
 
 data_clean:
-    file1: "../data/clean/w4proj_country_visits.csv"
+    file1: "../data/clean/NEW_top_visits.csv"
     file2: "../data/clean/w4proj_deforestation.csv"
     file3:
     
