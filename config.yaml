@@ -12,5 +12,5 @@ data_raw:
 data_clean:
     file1: "../data/clean/NEW_top_visits.csv"
     file2: "../data/clean/w4proj_deforestation.csv"
-    file3:
-    
+    file3: "../data/clean/comp_plot_reforest.csv"
+    file4: "../data/clean/comp_plot_top_visits.csv"
