@@ -42,8 +42,23 @@ Solutions for the dataset issues
 •	Transformed datasets
 •	Supplement datasets by joining
 
-Conclusions
+The database was then used to get a better understanding of our potential market.
+The performed queries chosen were:
+ -Finding the 10 most visited countries
+ -Finding the 10 countries with the highest reforestation percent
+ -Finding the 10 countries with the most forest per hectares
+ -Retrieving data for displaying information on tourism in a heatmap
+ -Retrieving data for displaying information on deforestation in a heatmap
+ -Retrieving data for the 5 most and 5 least visited countries showing their re/deforestation percentages and number of tourists in 2020
+ -Number of Tourist visits in our dataset
+ -Finding Most reforestation effort vs most deforestation
 
+Conclusions
+Our first hypothesis is validated as our data allowed us to identify countries reforesting their land while having insight on their tourism indistry.
+ Our second hypothesis is not validated as none of the most visited countries are amongst the top reforestators.
+ We concluded that so far that the reforestation rate of countries are not correlated with their tourism industry.
+ 
+For our business model this means that locations for new eco-touristic packages could be identified, based on a trade-off considering the potential of the experience (discovering places that are actually reforesting their land) while knowing about the attraction of people for these places (based on their number of tourists in the recent years.
 Goal is to expand our business portfolio to eco-tourists by using tourism + reforestation trends as indicators for potential new tour locations. We found 5 solid leads to kick-start our development & testing phase.
 •	France
 •	Uruguay
