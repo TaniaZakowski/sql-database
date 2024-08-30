@@ -60,3 +60,9 @@ The performed queries chosen were:
 
 ## Conclusions
 Our first hypothesis is validated as our data allowed us to identify countries reforesting their land while having insight on their tourism indistry.
+
+# Deliverables
+
+ - Kaban Board -https://trello.com/invite/b/66cc988cd9d5f7daaed11105/ATTIe07f63688e31e92df72d94c448afbff5CA8179D0/week4group4
+
+ - Slides - https://docs.google.com/presentation/d/1IaY0_gRI0-t9yW0vLmpmJgs4Nr7q5T6FMkKk-EkmirY/edit?usp=sharing
