@@ -1,4 +1,4 @@
-Introduction
+Introduction & project overview
 
 For our project, we chose to focus on the reforestation of countries worldwide.
 We identified datasets providing this information in percentage and in hectares per year.
