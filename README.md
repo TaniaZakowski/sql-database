@@ -14,15 +14,20 @@ Which of the most-visited countries are relevant for landuse in term of forests?
 
 Datasets
 
-Deforestation percentage : https://www.kaggle.com/datasets/konradb/deforestation-dataset
-Food and Agriculture Org. of the United Nations data in hectares 
-https://data.apps.fao.org/catalog/dataset/forest-area-1990-2020-1000-ha/resource/3cc5000d-184c-4ebe-8e54-b71910111f12 
-WBG population dataset
-Csv file downloaded from World Data Group
-Tourism data: top spots
-https://worldpopulationreview.com/country-rankings/most-visited-countries
-Country codes
+Datasets:	
 https://gist.github.com/tadast/8827699
+	Table:	country_codes	
+	Information:	Countries names with their  (ISO 3166-1) codes and coordinates
+https://www.kaggle.com/datasets/konradb/deforestation-dataset	
+	Table:	deforest_percent	
+	Information:	Deforestation by comparison of percent of land as forest between 2000 and 2020
+https://data.apps.fao.org/catalog/dataset/forest-area-1990-2020-1000-ha/resource/3cc5000d-184c-4ebe-8e54-b71910111f12	
+	Table:	forest_hectares	
+	Information:	Hectares of forest by country
+https://worldpopulationreview.com/country-rankings/most-visited-countries	
+	Table: top_visited	
+	Information:	Number of persons (i.e. tourist) entering countries per year
+
 
 Data preparation and Analysis
 
